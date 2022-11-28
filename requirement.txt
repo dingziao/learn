@@ -1,2 +1,2 @@
 arrow
-htmldate
+htmldate == 0.9.1
